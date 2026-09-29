@@ -1,3 +1,4 @@
-# latihan_kuis
+# Latihan Kuis Praktikum Mobile SI-F
 
-A new Flutter project.
+Nama: Dean Anggara Putra
+NIM: 124240001
